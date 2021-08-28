@@ -12,3 +12,4 @@ dependencies:
   - pip:
       - wandb==0.10.31
       - jupyter_contrib_nbextensions==0.5.1
+      - folium==0.12.1
