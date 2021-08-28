@@ -6,3 +6,4 @@ Date: 28 August 2021
 
 from .cat_cat import categorical_categorical_plot
 from .cat_num import categorical_numerical_plot
+from .geographical import geographical_plot
